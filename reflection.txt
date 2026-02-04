@@ -2,3 +2,4 @@ Using branches allows multiple software engineers to work on the same project wi
 Each developer can make changes and fix bugs, which keeps the main branch stable and prevents unfinished code from affected the team.
 Branch also prevents merge conflicts and accidental overrides.
 By merging changes only when feature is complete, teams can collaborate more safely.
+In addition, branches make it easier to review and test features before merging them into the main branch
